@@ -1,6 +1,5 @@
 ##############################################################################
 #                    Socio-Economic Indicators Portal                        #
-#Team Members: Aamir Abbas, Ali Iftikhar, Premkumar Loganathan, Ajay Valecha #
 ##############################################################################
 
 # Importing all the packages and functions needed 
